@@ -1,5 +1,7 @@
 # Setting up
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d382f91e14dc43d4b67aa246a3efe32f)](https://app.codacy.com/manual/JeremyLoh/duke?utm_source=github.com&utm_medium=referral&utm_content=JeremyLoh/duke&utm_campaign=Badge_Grade_Settings)
+
 **Prerequisites**
 
 * JDK 11
